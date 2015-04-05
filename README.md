@@ -11,7 +11,7 @@ out_filename = 'output/out_filtered.txt'
 
 
 For example:
-
+`
 python-proxy-checker
 |-- proxy.py
 |
@@ -24,3 +24,4 @@ python-proxy-checker
 |
 |-- output
     |-- out_filtered.txt
+`
